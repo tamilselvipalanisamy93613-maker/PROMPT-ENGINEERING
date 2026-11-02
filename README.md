@@ -58,30 +58,33 @@ Step 7: Finalize and Export
 
 
 # Output
-QUESTION 1:
+## QUESTION 1:
    Explain the foundational concepts of Generative AI.
 
 ANSWER:
+
 <img width="1157" height="767" alt="Screenshot 2026-11-02 135628" src="https://github.com/user-attachments/assets/67a49399-bdd9-44c6-a31b-ab9b6e347ef7" />
 
 PROMPT:
 Write a comprehensive report explaining the foundational concepts of Generative AI. Include its definition, history, evolution, working principles, major types of generative models, and differences between Generative AI and Traditional AI. Explain the role of machine learning, deep learning, neural networks, and training data. Discuss its advantages, limitations, challenges, ethical concerns, real-world applications, and future scope in different industries. Explain how Generative AI creates new content such as text, images, audio, and videos. Include examples of popular Generative AI tools and their uses. Use simple English, suitable technical explanations, and relevant examples. Present the report in well-organized paragraphs with an introduction and conclusion.
 
 
-QUESTION 2:
+## QUESTION 2:
      Focusing on Generative AI architectures. (like transformers).
      
 ANSWER:
+
 <img width="972" height="650" alt="image" src="https://github.com/user-attachments/assets/7b3d39c7-8709-40d6-9ff4-1496f212091f" />
 
 PROMPT:
 Write a detailed report focusing on Generative AI architectures, especially Transformer architecture. Explain different architectures such as GANs, VAEs, RNNs, and Transformers. Describe the structure and working of Transformers, including encoders, decoders, input embeddings, positional encoding, self-attention, multi-head attention, and feed-forward networks. Discuss popular models such as GPT, BERT, Gemini, and Llama. Explain how these architectures process information and generate new content. Discuss their importance, advantages, limitations, and role in modern Generative AI applications. Use simple English, technical explanations, and suitable examples in paragraph format.
 
 
-QUESTION 3:
+## QUESTION 3:
       Generative AI architecture  and its applications.
 
 ANSWER:
+
 <img width="862" height="482" alt="image" src="https://github.com/user-attachments/assets/23f06e01-d5e2-4e62-afdd-59b0fcab8de7" />
 
 PROMPT:
@@ -89,19 +92,21 @@ Create a comprehensive report explaining Generative AI architecture and its appl
 
 
 
-QUESTION 4:
+## QUESTION 4:
        Generative AI impact of scaling in LLMs.
 
 ANSWER:
+
 <img width="902" height="496" alt="image" src="https://github.com/user-attachments/assets/e2281736-77c5-4654-8bac-c5a5e4b326d7" />
 
 PROMPT:
 Write a detailed report explaining the impact of scaling in Large Language Models (LLMs). Describe the importance of model parameters, training data, computational power, and scaling laws. Explain how increasing model size and training resources can improve language understanding, accuracy, reasoning, text generation, and problem-solving abilities. Discuss the advantages of scaling and its challenges, including computational costs, energy consumption, data requirements, bias, and limitations. Explain the relationship between model size and performance with suitable examples. Include examples of modern LLMs and explain future developments in AI scaling. Present the report in simple English with clear paragraphs and suitable technical examples.
 
-QUESTION 5:
+## QUESTION 5:
      Explain about LLM and how it is build. 
 
 ANSWER:
+
 <img width="1352" height="807" alt="image" src="https://github.com/user-attachments/assets/1a6ac796-db8f-4433-9bf9-7f544c504bcf" />
 
 PROMPT:

@@ -65,7 +65,7 @@ ANSWER:
 
 <img width="1157" height="767" alt="Screenshot 2026-11-02 135628" src="https://github.com/user-attachments/assets/67a49399-bdd9-44c6-a31b-ab9b6e347ef7" />
 
-PROMPT:
+## PROMPT:
 Write a comprehensive report explaining the foundational concepts of Generative AI. Include its definition, history, evolution, working principles, major types of generative models, and differences between Generative AI and Traditional AI. Explain the role of machine learning, deep learning, neural networks, and training data. Discuss its advantages, limitations, challenges, ethical concerns, real-world applications, and future scope in different industries. Explain how Generative AI creates new content such as text, images, audio, and videos. Include examples of popular Generative AI tools and their uses. Use simple English, suitable technical explanations, and relevant examples. Present the report in well-organized paragraphs with an introduction and conclusion.
 
 
@@ -78,7 +78,7 @@ ANSWER:
 
 
 
-PROMPT:
+## PROMPT:
 Write a detailed report focusing on Generative AI architectures, especially Transformer architecture. Explain different architectures such as GANs, VAEs, RNNs, and Transformers. Describe the structure and working of Transformers, including encoders, decoders, input embeddings, positional encoding, self-attention, multi-head attention, and feed-forward networks. Discuss popular models such as GPT, BERT, Gemini, and Llama. Explain how these architectures process information and generate new content. Discuss their importance, advantages, limitations, and role in modern Generative AI applications. Use simple English, technical explanations, and suitable examples in paragraph format.
 
 
@@ -91,7 +91,7 @@ ANSWER:
 
 
 
-PROMPT:
+## PROMPT:
 Create a comprehensive report explaining Generative AI architecture and its applications. Describe its basic structure, important components, working process, neural networks, and major architectures such as GANs, VAEs, Transformers, and Diffusion Models. Explain how these architectures generate text, images, audio, videos, and code. Discuss their applications in healthcare, education, banking, business, entertainment, software development, and digital marketing with real-world examples. Explain how Generative AI improves productivity, creativity, and automation in different industries. Also discuss its benefits, limitations, challenges, and future developments using simple English and well-connected paragraphs.
 
 
@@ -105,7 +105,7 @@ ANSWER:
 
 
 
-PROMPT:
+## PROMPT:
 Write a detailed report explaining the impact of scaling in Large Language Models (LLMs). Describe the importance of model parameters, training data, computational power, and scaling laws. Explain how increasing model size and training resources can improve language understanding, accuracy, reasoning, text generation, and problem-solving abilities. Discuss the advantages of scaling and its challenges, including computational costs, energy consumption, data requirements, bias, and limitations. Explain the relationship between model size and performance with suitable examples. Include examples of modern LLMs and explain future developments in AI scaling. Present the report in simple English with clear paragraphs and suitable technical examples.
 
 ## QUESTION 5:
@@ -117,7 +117,7 @@ ANSWER:
 
 
 
-PROMPT:
+## PROMPT:
 Create a comprehensive report explaining Large Language Models (LLMs) and how they are built. Begin with their definition, importance, and working principles. Explain the Transformer architecture, tokenization, embeddings, attention mechanisms, and neural networks. Describe the complete development process, including data collection, data preprocessing, model training, pre-training, fine-tuning, evaluation, and deployment. Explain the role of GPUs, large datasets, and computational resources in building LLMs. Discuss popular models such as ChatGPT, Gemini, Claude, and Llama, along with their applications, advantages, limitations, and future scope. Explain how LLMs understand user queries and generate meaningful responses. Use simple English, technical explanations, and suitable examples in well-organized paragraphs.
 
 

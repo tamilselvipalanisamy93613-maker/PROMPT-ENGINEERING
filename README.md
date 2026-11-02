@@ -58,9 +58,11 @@ Step 7: Finalize and Export
 
 
 # Output
-## QUESTION 1:
-   Explain the foundational concepts of Generative AI.
 
+## QUESTION 1:
+```
+    Explain the foundational concepts of Generative AI.
+```
 ANSWER:
 
 <img width="1157" height="767" alt="Screenshot 2026-11-02 135628" src="https://github.com/user-attachments/assets/67a49399-bdd9-44c6-a31b-ab9b6e347ef7" />

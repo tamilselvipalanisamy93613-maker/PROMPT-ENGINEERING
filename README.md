@@ -58,6 +58,33 @@ Step 7: Finalize and Export
 
 
 # Output
+QUESTION 1:
+   Explain the foundational concepts of Generative AI.
+
+ANSWER:
+<img width="1157" height="767" alt="Screenshot 2026-11-02 135628" src="https://github.com/user-attachments/assets/67a49399-bdd9-44c6-a31b-ab9b6e347ef7" />
+
+PROMPT:
+Create a comprehensive and well-organized report explaining the foundational concepts of Generative AI.
+
+Include the following topics:
+
+1. Definition of Generative AI.
+2. History and Evolution of Generative AI.
+3. How Generative AI Works.
+4. Difference between Generative AI and Traditional AI.
+5. Types of Generative AI Models.
+6. Advantages of Generative AI.
+7. Limitations of Generative AI.
+8. Real-World Applications of Generative AI.
+9. Future Scope of Generative AI.
+
+Explain every topic in simple English with suitable real-world examples.
+
+Use clear headings, subheadings, bullet points, and a conclusion.
+
+The report should be detailed, informative, accurate, and suitable for a college assignment.
+
 
 
 # Result

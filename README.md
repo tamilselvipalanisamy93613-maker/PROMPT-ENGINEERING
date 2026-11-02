@@ -65,26 +65,43 @@ ANSWER:
 <img width="1157" height="767" alt="Screenshot 2026-11-02 135628" src="https://github.com/user-attachments/assets/67a49399-bdd9-44c6-a31b-ab9b6e347ef7" />
 
 PROMPT:
-Create a comprehensive and well-organized report explaining the foundational concepts of Generative AI.
+Write a comprehensive report explaining the foundational concepts of Generative AI, including its definition, history, evolution, working principles, types of models, advantages, limitations, real-world applications, and future scope. Explain the concepts in simple English using suitable examples, well-structured paragraphs, an introduction, and a conclusion.
 
-Include the following topics:
+QUESTION 2:
+     Focusing on Generative AI architectures. (like transformers).
+     
+ANSWER:
+<img width="972" height="650" alt="image" src="https://github.com/user-attachments/assets/7b3d39c7-8709-40d6-9ff4-1496f212091f" />
 
-1. Definition of Generative AI.
-2. History and Evolution of Generative AI.
-3. How Generative AI Works.
-4. Difference between Generative AI and Traditional AI.
-5. Types of Generative AI Models.
-6. Advantages of Generative AI.
-7. Limitations of Generative AI.
-8. Real-World Applications of Generative AI.
-9. Future Scope of Generative AI.
+PROMPT:
+Write a detailed report focusing on Generative AI architectures, especially Transformer architecture. Explain its structure, working principles, self-attention mechanism, multi-head attention, encoder and decoder, feed-forward networks, and popular transformer models such as GPT, BERT, and Gemini. Use simple English and clear paragraphs with suitable examples.
 
-Explain every topic in simple English with suitable real-world examples.
+QUESTION 3:
+      Generative AI architecture  and its applications.
 
-Use clear headings, subheadings, bullet points, and a conclusion.
+ANSWER:
+<img width="862" height="482" alt="image" src="https://github.com/user-attachments/assets/23f06e01-d5e2-4e62-afdd-59b0fcab8de7" />
 
-The report should be detailed, informative, accurate, and suitable for a college assignment.
+PROMPT:
+Write a comprehensive report on Generative AI architecture and its applications. Explain the basic architecture, major components, working process, different types of architectures, and their applications in healthcare, education, business, entertainment, software development, and other industries. Use simple English, practical examples, and well-organized paragraphs with an introduction and conclusion.
 
+QUESTION 4:
+       Generative AI impact of scaling in LLMs.
 
+ANSWER:
+<img width="902" height="496" alt="image" src="https://github.com/user-attachments/assets/e2281736-77c5-4654-8bac-c5a5e4b326d7" />
+
+PROMPT:
+Write a detailed report explaining the impact of scaling in Large Language Models (LLMs). Discuss model size, training data, computational power, performance improvements, accuracy, reasoning abilities, limitations, cost, energy consumption, and future developments. Explain how scaling affects LLM performance using simple English, suitable examples, and clear paragraphs.
+
+QUESTION 5:
+     Explain about LLM and how it is build. 
+
+ANSWER:
+<img width="1352" height="807" alt="image" src="https://github.com/user-attachments/assets/1a6ac796-db8f-4433-9bf9-7f544c504bcf" />
+
+PROMPT:
+Write a comprehensive report explaining Large Language Models (LLMs) and how they are built. Cover the definition of LLMs, their architecture, data collection, data preprocessing, tokenization, model training, transformer technology, fine-tuning, evaluation, and deployment. Explain each stage in simple English with suitable examples and present the content in well-structured paragraphs with an introduction and conclusion.
 
 # Result
+The five prompts were successfully created in paragraph format, covering the foundational concepts of Generative AI, Generative AI architectures, their applications, the impact of scaling in LLMs, and how LLMs are built. These prompts can be used in ChatGPT, Gemini, Claude, and Perplexity to generate and compare AI responses.
